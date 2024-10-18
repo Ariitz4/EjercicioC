@@ -1,0 +1,1 @@
+packageSearchIndex = [{"l":"All Packages","u":"allpackages-index.html"},{"m":"es.aritzherrero.ejercicioc","l":"es.aritzherrero.ejercicioc"},{"m":"es.aritzherrero.ejercicioc","l":"es.aritzherrero.ejercicioc.controlador"}];updateSearchResults();
