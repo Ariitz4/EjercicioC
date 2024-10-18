@@ -19,7 +19,7 @@ import java.util.Objects;
 public class HelloApplication extends Application {
 
     /**
-     * Método principal de la aplicación JavaFX que configura y muestra la ventana principal.
+     * Procedimiento principal de la aplicación JavaFX que configura y muestra la ventana principal.
      *
      * @param stage
      * @throws IOException
@@ -47,7 +47,7 @@ public class HelloApplication extends Application {
     }
 
     /**
-     * Método main que lanza la aplicación JavaFX.
+     * Procedimiento main que lanza la aplicación JavaFX.
      *
      * @param args
      */

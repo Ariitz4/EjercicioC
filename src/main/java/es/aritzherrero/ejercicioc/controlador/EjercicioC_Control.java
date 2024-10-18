@@ -77,7 +77,7 @@ public class EjercicioC_Control implements Initializable {
     }
 
     /**
-     * Método llamado cuando se presiona el botón "Agregar".
+     * Procedimiento llamado cuando se presiona el botón "Agregar".
      * Valida los campos del formulario y agrega una nueva persona a la tabla si no está ya presente.
      *
      * @param event
@@ -146,7 +146,7 @@ public class EjercicioC_Control implements Initializable {
 
 
     /**
-     * Método llamado al presionar el botón "Eliminar".
+     * Procedimiento llamado al presionar el botón "Eliminar".
      * Elimina la persona seleccionada de la tabla.
      *
      * @param event Evento que dispara el método.
@@ -163,7 +163,7 @@ public class EjercicioC_Control implements Initializable {
     }
 
     /**
-     * Método llamado al presionar el botón "Modificar".
+     * Procedimiento llamado al presionar el botón "Modificar".
      * Modifica la persona seleccionada en la tabla si no existe otra con los mismos datos.
      *
      * @param event Evento que dispara el método.
@@ -196,7 +196,7 @@ public class EjercicioC_Control implements Initializable {
     }
 
     /**
-     * Método llamado al hacer clic en una fila de la tabla.
+     * Procedimiento llamado al hacer clic en una fila de la tabla.
      * Carga los datos de la persona seleccionada en los campos de texto.
      *
      * @param event Evento de clic de ratón.
